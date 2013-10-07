@@ -1,0 +1,4 @@
+[submodule "ConcurrentMatrix/sunday"]
+	path = ConcurrentMatrix/sunday
+	url = https://budzek@bitbucket.org/adamsunday/concurrent-matrix.git
+	
